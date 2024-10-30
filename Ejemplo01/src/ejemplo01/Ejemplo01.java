@@ -21,6 +21,7 @@ public class Ejemplo01 {
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
         nombreEstudiante = "Felipe Elizalde";
+        // no hay que volver a declarar el tipo de variable si está ya está previamente declarada
         System.out.println(nombreEstudiante);
     }
     
